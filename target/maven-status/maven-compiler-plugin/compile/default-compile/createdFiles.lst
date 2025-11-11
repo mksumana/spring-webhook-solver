@@ -1,0 +1,5 @@
+com\example\webhooksolver\model\GenerateWebhookRequest.class
+com\example\webhooksolver\service\WebhookService.class
+com\example\webhooksolver\model\FinalQueryRequest.class
+com\example\webhooksolver\WebhookSolverApplication.class
+com\example\webhooksolver\model\GenerateWebhookResponse.class
